@@ -3,7 +3,7 @@ import React from 'react'
 const Left = () => {
   return (
     <div className='left-main h-[100%] text-[#c2c7d0] font-sans antialiased selection:bg-[#007bff]'>
-      <div className="left-cont h-[100vh] w-[250px] bg-[#343a40] flex flex-col justify-between shadow-xl">
+      <div className="left-cont h-[100vh] w-[279px] bg-[#343a40] flex flex-col justify-between shadow-xl ">
         
         <div className="topLeft flex-1 flex flex-col overflow-y-auto">
           
